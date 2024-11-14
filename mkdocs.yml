@@ -1,0 +1,7 @@
+site_name: 30 ETL project with python
+nav:
+- Home: index.md
+- Primeiro_Projeto: novelbin.md
+theme: readthedocs
+plugins:
+  - search
